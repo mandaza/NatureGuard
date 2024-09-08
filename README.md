@@ -1,5 +1,7 @@
 # NatureGuard
 
+https://www.figma.com/proto/zX9jAuEijqKHGPClu02eIi/NatureGuard?node-id=33-1948&node-type=CANVAS&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=33%3A1948
+
 
 NatureGuard is an innovative solution designed to streamline the management of Sunshine Coast Council's public spaces asset managment, by leveraging existing IoT infrastructure and predictive AI models. The goal is to optimize maintenance schedules, enhance asset utilization, improve visitor experiences, and protect Australia’s flora and fauna.
 
